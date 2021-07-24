@@ -5,3 +5,5 @@ A simple project using basic computer vision with K-nearest neighbors algorithm 
 
 I only used 6 classes to make the project more simple.
 
+## Library
+HOG library credit: [HOG](https://github.com/lcit/HOG)
